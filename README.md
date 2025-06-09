@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Sivasai897
+# 👋 Hi, I'm @Sivasai
 
 I'm a passionate **Generative AI Developer** with **2.5 years of experience** crafting innovative AI solutions. I specialize in building **Retrieval-Augmented Generation (RAG)** applications, **smart assistants**, and **agentic workflows**, leveraging **Large Language Models (LLMs)**, **vector databases**, **LangChain**, **LangGraph**, and **AWS services** (S3, Lambda, EC2, Bedrock). 🚀
 
